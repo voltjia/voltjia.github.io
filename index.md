@@ -1,6 +1,6 @@
-# About Me: Jiacheng Huang
+# Jiacheng Huang
 
-## Bullet Points
+## About
 
 * Senior student
 * Electrical Engineering major
