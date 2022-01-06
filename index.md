@@ -27,7 +27,7 @@
 * PotatOS (Potat Operating System)
 * [FPGA-based Pac-Man Game](fpga_pacman.md)
 * [Shoot Me Please! (Game Demo)](shoot_me_please.md)
-* Gomoku (Very Simple Game Demo)
+* [Gomoku (Very Simple Game Demo)](gomoku.md)
 
 ## Contact
 
