@@ -22,7 +22,7 @@
 
 * [Fundot Programming Language](https://fundot.github.io/fundot/)
 * [Illinois Extended Reality Testbed (ILLIXR)](https://illixr.github.io/)
-* Motor-Aided Wheelchair
+* [Motor-Aided Wheelchair](motor_aided_wheelchair.md)
 * Li-Fi Communication Model
 * PotatOS (Potat Operating System)
 * FPGA-based Pac-Man Game
@@ -31,4 +31,4 @@
 
 ## Contact
 
-Feel free to contact me through email: <jiacheng-huang@outlook.com>
+Feel free to contact me through email: <jiachenghuang070901@outlook.com>
