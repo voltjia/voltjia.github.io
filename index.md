@@ -25,7 +25,7 @@
 * [Motor-Aided Wheelchair](motor_aided_wheelchair.md)
 * [Li-Fi Communication Model](lifi_communication_model.md)
 * PotatOS (Potat Operating System)
-* FPGA-based Pac-Man Game
+* [FPGA-based Pac-Man Game](fpga_pacman.md)
 * Shoot Me Please! (Game Demo)
 * Gomoku (Very Simple Game Demo)
 
