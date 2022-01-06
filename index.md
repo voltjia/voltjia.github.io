@@ -1,4 +1,4 @@
-# About Me
+# About Me: Jiacheng Huang
 
 ## Bullet Points
 
@@ -8,6 +8,15 @@
 * Expected to graduate in 2022
 * Eta Kappa Nu (HKN) member
 * IEEE member
+
+## Interests
+
+* Extended Reality (XR)
+* Internet of Things (IoT)
+* Computer Graphics
+* Computer Vision
+* Operating System
+* Computer Architecture
 
 ## Projects
 
