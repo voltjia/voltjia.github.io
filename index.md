@@ -23,7 +23,7 @@
 * [Fundot Programming Language](https://fundot.github.io/fundot/)
 * [Illinois Extended Reality Testbed (ILLIXR)](https://illixr.github.io/)
 * [Motor-Aided Wheelchair](motor_aided_wheelchair.md)
-* Li-Fi Communication Model
+* [Li-Fi Communication Model](lifi_communication_model.md)
 * PotatOS (Potat Operating System)
 * FPGA-based Pac-Man Game
 * Shoot Me Please! (Game Demo)
