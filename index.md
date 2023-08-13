@@ -2,21 +2,17 @@
 
 ## About
 
-* Senior student
-* Electrical Engineering major
-* University of Illinois Urbana-Champaign
-* Expected to graduate in 2022
-* Eta Kappa Nu (HKN) member
-* IEEE member
+* Electrical and Computer Engineering major
+* Master's degree from Cornell University
+* Bachelor's degree from University of Illinois Urbana-Champaign
 
 ## Interests
 
-* Extended Reality (XR)
-* Internet of Things (IoT)
 * Computer Graphics
-* Computer Vision
 * Operating System
 * Computer Architecture
+* Extended Reality (XR)
+* Internet of Things (IoT)
 
 ## Projects
 
@@ -30,4 +26,4 @@
 
 ## Contact
 
-Feel free to contact me through email: <jiachenghuang070901@outlook.com>
+Feel free to contact me through email: <huangjiacheng0709@outlook.com>
