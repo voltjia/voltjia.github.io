@@ -18,11 +18,11 @@
 
 * [Fundot Programming Language](https://fundot.github.io/fundot/)
 * [Illinois Extended Reality Testbed (ILLIXR)](https://illixr.github.io/)
-* [Motor-Aided Wheelchair](motor_aided_wheelchair.md)
-* [Li-Fi Communication Model](lifi_communication_model.md)
-* [FPGA-based Pac-Man Game](fpga_pacman.md)
-* [Shoot Me Please! (Game Demo)](shoot_me_please.md)
-* [Gomoku (Very Simple Game Demo)](gomoku.md)
+* [Motor-Aided Wheelchair](projects/motor_aided_wheelchair.md)
+* [Li-Fi Communication Model](projects/lifi_communication_model.md)
+* [FPGA-based Pac-Man Game](projects/fpga_pacman.md)
+* [Shoot Me Please! (Game Demo)](projects/shoot_me_please.md)
+* [Gomoku (Very Simple Game Demo)](projects/gomoku.md)
 
 ## Contact
 
