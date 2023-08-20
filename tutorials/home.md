@@ -6,3 +6,4 @@
 2. [你好，世界！](C/hello-world.md)
 3. [1 + 1 = 2](C/printf.md)
 4. [回声](C/scanf.md)
+5. [求和](C/while.md)
